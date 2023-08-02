@@ -1,4 +1,4 @@
-# lucrypto
+# LuCrypto
 
 ## Website Link : https://lu-crypto.web.app/
 
@@ -24,4 +24,4 @@ npm install react-google-button
 npm install react-icons
 
 
-## used coingecko api for real time data of Cryptocurrency.
+## used Coin Gecko API for real time data of Cryptocurrency.
