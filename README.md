@@ -1,4 +1,4 @@
-# lucrypto1
+# lucrypto
 
 Install the following packages:
 
