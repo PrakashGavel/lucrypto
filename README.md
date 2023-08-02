@@ -24,4 +24,4 @@ npm install react-google-button
 npm install react-icons
 
 
-## used coingecko api for real time data of Cryptocurrencies.
+## used coingecko api for real time data of Cryptocurrency.
